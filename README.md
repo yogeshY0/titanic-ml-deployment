@@ -57,7 +57,7 @@ Visit `http://localhost:5001` in your browser.
 
 ## 👨‍💻 Author
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/yogeshYO)
+- GitHub: [yogeshYO](https://github.com/yogeshYO)
 - LinkedIn: [Yogesh Baral](https://www.linkedin.com/in/yogesh-baral-bbaaa631)
 
 ## 📝 License

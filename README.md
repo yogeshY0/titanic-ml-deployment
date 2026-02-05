@@ -3,7 +3,7 @@
 An end-to-end Machine Learning project that predicts passenger survival on the Titanic using Random Forest algorithm.
 
 ## 🎯 Live Demo
-Coming soon... (You'll add the Render URL here after deployment)
+**[🚀 Try it live here!](https://titanic-ml-deployment-bwjf.onrender.com/)**
 
 ## 🛠️ Tech Stack
 - **Backend:** Python, Flask
@@ -55,8 +55,6 @@ Visit `http://localhost:5001` in your browser.
 - Features: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
 - Feature Engineering: FamilySize, IsAlone, FarePerPerson
 
-## 👨‍💻 Author
-**Your Name**
 - GitHub: [yogeshYO](https://github.com/yogeshYO)
 - LinkedIn: [Yogesh Baral](https://www.linkedin.com/in/yogesh-baral-bbaaa631)
 
